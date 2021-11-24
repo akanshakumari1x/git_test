@@ -1,0 +1,6 @@
+u can write anything here:;
+here write again
+by the help of notepad..
+this is my first git class
+to open the file cmmd- vim filename and enter..
+you can directly open file with cmmd- notepad filename
